@@ -1,4 +1,3 @@
-[![network_resized](https://user-images.githubusercontent.com/33643615/202914638-9ad2ca6f-f96f-4392-8098-fd1149981e73.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Rida Wazneh</h1>
