@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rida Wazneh</h1>
 <h3 align="center">A software engineer from Lebanon</h3>
-<div align="right" style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwgrid&label=Profile%20views&color=0e75b6&style=flat" alt="rwgrid" /> </p>
+<div class="tenor-gif-embed" align="right" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script><p align="left"> <img src="https://komarev.com/ghpvc/?username=rwgrid&label=Profile%20views&color=0e75b6&style=flat" alt="rwgrid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
