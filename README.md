@@ -1,4 +1,5 @@
 ![atoms](https://user-images.githubusercontent.com/33643615/202912227-559d07d7-aa39-4ab9-bfe3-50a9d5c98d2b.gif)
+![Screenshot](https://github.com/RwGrid/RwGrid/blob/main/my_gif.gif)
 
 
 
