@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rida Wazneh</h1>
 <h3 align="center">A software engineer from Lebanon</h3>
-<div class="tenor-gif-embed" align="right" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script><p align="left"> <img src="https://komarev.com/ghpvc/?username=rwgrid&label=Profile%20views&color=0e75b6&style=flat" alt="rwgrid" /> </p>
+<img align="right" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"></img>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwgrid&label=Profile%20views&color=0e75b6&style=flat" alt="rwgrid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
