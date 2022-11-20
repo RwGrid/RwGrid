@@ -1,6 +1,4 @@
-![atoms](https://user-images.githubusercontent.com/33643615/202912227-559d07d7-aa39-4ab9-bfe3-50a9d5c98d2b.gif)
-![Screenshot](https://github.com/RwGrid/RwGrid/blob/main/my_gif.gif)
-
+![firewall](https://user-images.githubusercontent.com/33643615/202912941-613e4546-57bf-4332-bd83-4f4f2ad935ac.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Rida Wazneh</h1>
