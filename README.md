@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/33643615/203128617-e691b36f-7a9b-4ca4-b6fd-6af4fe768ca2.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Rida Wazneh</h1>
