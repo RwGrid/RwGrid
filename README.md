@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on [AlchemyNova](proprietary)
 
-- 🌱 I’m currently learning **Cloud Services**
-
 - 💬 Ask me about **FastApi, Data Analysis**
 
 - 📫 How to reach me **ridawazne00212@gmail.com**
